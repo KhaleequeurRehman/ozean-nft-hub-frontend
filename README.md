@@ -1,6 +1,6 @@
 # URL
 
-This project url(https://ozeannfthub.netlify.app/).
+This project url https://ozeannfthub.netlify.app.
 
 # Getting Started with Create React App
 
